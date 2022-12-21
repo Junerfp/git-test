@@ -14,6 +14,7 @@ public class test {
         System.out.println("master confilct");
         System.out.println("hot-fix confilct");
         System.out.println("github push");
- System.out.println("github pull");
+        System.out.println("github push2");
+        System.out.println("github pull");
     }
 }
