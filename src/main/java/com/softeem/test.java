@@ -13,6 +13,7 @@ public class test {
         System.out.println("hot-fix test");
         System.out.println("master confilct");
         System.out.println("hot-fix confilct");
+        System.out.println("github push");
  System.out.println("github pull");
     }
 }
